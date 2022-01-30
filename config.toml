@@ -1,3 +1,16 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://restless-town.makyo.ink/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Restless Town'
+theme = 'maddybook'
+paginatePath = ''
+
+[permalinks]
+    post = '/:filename/'
+
+[params]
+    author = 'Madison Scott-Clary'
+    home = 'https://makyo.ink'
+    copyright = 2019
+
+[markup.goldmark.renderer]
+    unsafe = true
