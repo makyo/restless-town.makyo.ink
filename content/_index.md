@@ -10,25 +10,21 @@
 
 Restless Town is a collection of ten furry short stories from the fictional town of Sawtooth, Idaho, exploring the themes of identity, sexuality, and mental health.
 
-<div class="order">
-<script src="https://gumroad.com/js/gumroad.js"></script>
+<div class="buy">
 <p>
-<a class="gumroad-button" href="https://makyo.gumroad.com/l/restless-town-ebook">Order ebook</a>
-<a class="gumroad-button" href="https://makyo-ink.square.site/product/restless-town/1">Order paperback</a>
-</p>
-<p>
+<a href="https://makyo.itch.io/restless-town">Order ebook</a>
+<a href="https://makyo-ink.square.site/product/restless-town/1">Order paperback</a>
 <a href="https://baddogbooks.com/product/a-wildness-of-the-heart-limerant-object-and-other-stories/" target="_blank">Order ebook from BadDogBooks</a><br/>
 <a href="https://furplanet.com/shop/item.aspx?itemid=1084" target="_blank">Order paperback from FurPlanet</a>
 </p>
 <p>
 <em>Also available for many internet retailers, but consider supporting small businesses!</em>
 </p>
-<hr />
-<p>
-Much of the book is available to read for free online if you are unable to afford purchasing, because the global panoramic is still a thing
-</p>
 </div>
 
+-----
+
+Much of the book is available to read for free online if you are unable to afford purchasing, because the global panoramic is still a thing
 ### Contents
 
 * [The Fool](the-fool) - A student and a motherly badger explore questions of identity through a tarot reading.
