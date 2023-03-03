@@ -4,8 +4,6 @@
 ![The book's cover](/cover-front.jpg)
 
 
-<script src="https://gumroad.com/js/gumroad.js"></script>
-
 > I just need out of this town. This stupid fucking town. This brown and flat and sad town. This restless town. This home to ennui and melancholy. This scrub of buildings and people and emotions spilled in the middle of an apathetic landscape like hay from an overturned truck.
 
 Restless Town is a collection of ten furry short stories from the fictional town of Sawtooth, Idaho, exploring the themes of identity, sexuality, and mental health.
