@@ -1,14 +1,6 @@
 ---
-type: post
+type: story
 title: Fisher
-description: A fisher walks and hunts for meaning.
-date: 2018-09-11
-ratings: G
-tags:
-- Furry
-- Death
-categories:
-- Flash fiction
 ---
 
 Alv pinned his ears back against his head as he stomped down the length of the block. His boots were too much for the drizzle that the weather offered, but it was that or his threadbare sneakers, and some tiny part of his mind had done the calculation without the rest of him knowing, and he'd tugged the heavy things on for the walk.

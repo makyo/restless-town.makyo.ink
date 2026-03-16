@@ -1,17 +1,5 @@
 ---
-categories:
-- Short Story
-series: Sawtooth
-ratings: G
-date: 2017-05-08
-description: A student and a motherly badger explore questions of identity through a tarot reading.
-img: the-fool.png
-type: post
-pdf: the-fool.pdf
-tags:
-- Furry
-- Tarot
-- Gender
+type: story
 title: The Fool
 ---
 

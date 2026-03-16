@@ -1,17 +1,6 @@
 ---
-date: 2019-07-01
 title: What Defines Us
-type: post
-description: Darren and his mother struggle with the ramifications of the past repeating itself.
-img: flag.svg
-series: Sawtooth
-categories:
-- Short story
-- Epistolary
-tags:
-- Furry
-- Family
-- Divorce
+type: story
 cw: Mention of abuse
 ---
 

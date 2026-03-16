@@ -1,16 +1,6 @@
 ---
-type: post
+type: story
 title: Every Angel is terrifying
-img: flag.svg
-series: Sawtooth
-description: Derek MacIver struggles to hold his life together through the ups and downs of bipolar disorder.
-date: 2019-05-21
-categories:
-- Short story
-tags:
-- Suicide
-- Mental Health
-- Furry
 cw: Mental health (bipolar II, self-harm, suicidality - no graphic description), mention of sex scene
 ---
 

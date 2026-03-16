@@ -1,16 +1,5 @@
 ---
-author: Madison Scott-Clary
-categories:
-- Vignette
-series: Sawtooth
-ratings: G
-date: 2017-12-16
-description: A coyote burns meaning into the world around him.
-img: flag.svg
-type: post
-tags:
-- Furry
-- Magic
+type: story
 title: 'Acts of Intent'
 ---
 

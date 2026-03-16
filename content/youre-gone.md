@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: story
 title: You're Gone
-date: 2018-01-26
 ---
 
 "You're Gone" originally took the form of a piece of interactive fiction. You can play that version [here](https://makyo.ink/assets/posts/youre-gone).

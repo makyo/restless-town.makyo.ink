@@ -25,16 +25,7 @@ Restless Town is a collection of ten furry short stories from the fictional town
 Much of the book is available to read for free online if you are unable to afford purchasing, because the global panoramic is still a thing
 ### Contents
 
-* [The Fool](the-fool) - A student and a motherly badger explore questions of identity through a tarot reading.
-* [Disappearance](disappearance) - A weasel attempts to escape from her life in Sawtooth to Oregon, but finds her old life still tied to home.
-* [Fisher](fisher) - A fisher walks and hunts for meaning.
-* [Centerpiece](centerpiece) - A couple heads to a BDSM play party where the wife will be the Centerpiece for the whole party to enjoy. With fertility already on the mind, will another mink showing up throw a wrench in things?
-* [You're Gone](youre-gone) - A husband grieves the loss of his wife through instant messages.
-* [Overclassification](overclassification) - A chronically neat otter's life is thrown into disarray when she takes a homeless ringtail in from the cold.
-* [Acts of Intent](acts-of-intent) - A coyote burns meaning into the world around him.
-* [Every Angel is Terrifying](every-angel-is-terrifying) - Derek MacIver struggles to hold his life together through the ups and downs of bipolar disorder.
-* [What Defines Us](what-defines-us) - Darren and his mother struggle with the rammifications of the past repeating itself.
-* [A Theory of Attachment](a-theory-of-attachment) - Living with obsessive-compulsive disorder is tough without a support network, so when Sélène's changes, stress runs high.
+{{< works corpus="works" >}}
 
 ### Content warning
 

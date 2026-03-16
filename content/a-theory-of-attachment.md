@@ -1,20 +1,5 @@
 ---
-author: Madison Scott-Clary
-categories:
-- Short Story
-series: Sawtooth
-ratings: R
-date: 2017-12-10
-description: "Living with obsessive-compulsive disorder is tough without a support\
-    \ network, so when S\xE9l\xE8ne's changes, stress runs high."
-img: flag.svg
-type: post
-pdf: a-theory-of-attachment.pdf
-tags:
-- Furry
-- Romance
-- Sexuality
-- Mental Health
+type: story
 title: A Theory of Attachment
 cw: Mental health (panic attack, OCD), sex scene, mention of abuse
 ---

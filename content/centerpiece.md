@@ -1,18 +1,5 @@
 ---
-categories:
-- Short Story
-series: Sawtooth
-ratings: X
-date: 2016-12-17
-img: flag.svg
-type: post
-pdf: centerpiece.pdf
-rating: X
-tags:
-- Furry
-- Romance
-- Sexuality
-- Kink
+type: story
 title: Centerpiece
 cw: Sex and nudity, kink (BDSM, fertility play, humiliation), bad negotiation
 ---

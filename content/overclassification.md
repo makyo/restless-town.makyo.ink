@@ -1,18 +1,5 @@
 ---
-categories:
-- Short Story
-series: Sawtooth
-ratings: R
-date: 2017-09-03
-description: A chronically neat otter's life is thrown into disarray when she takes a homeless ringtail in from the cold.
-img: overclassification.jpg
-type: post
-pdf: overclassification.pdf
-tags:
-- Furry
-- Romance
-- Sexuality
-- Mental health
+type: story
 title: Overclassification
 cw: Mental health (depression), sex scene
 ---

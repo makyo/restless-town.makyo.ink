@@ -1,17 +1,5 @@
 ---
-categories:
-- Short Story
-series: Sawtooth
-ratings: R
-description: A weasel attempts to escape from her life in Sawtooth to Oregon, but finds her old life still tied to home.
-date: 2018-08-14
-img: alley-cat.jpg
-type: post
-pdf: disappearance.pdf
-tags:
-- Furry
-- Romance
-- Sexuality
+type: story
 title: Disappearance
 cw: Mental health (panic attack), sex scene
 ---
