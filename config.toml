@@ -15,3 +15,6 @@ paginatePath = ''
 
 [markup.goldmark.renderer]
     unsafe = true
+
+[pagination]
+    path = ""
